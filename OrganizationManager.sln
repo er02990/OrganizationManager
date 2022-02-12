@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizationManager", "OrganizationManager.csproj", "{A8590692-7DAF-49C1-9552-FA546023180F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizationDataLayer", "..\OrganizationDataLayer\OrganizationDataLayer.csproj", "{EA86067F-7154-4C89-BE6F-8EDD8775ACC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8590692-7DAF-49C1-9552-FA546023180F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8590692-7DAF-49C1-9552-FA546023180F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8590692-7DAF-49C1-9552-FA546023180F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8590692-7DAF-49C1-9552-FA546023180F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA86067F-7154-4C89-BE6F-8EDD8775ACC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA86067F-7154-4C89-BE6F-8EDD8775ACC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA86067F-7154-4C89-BE6F-8EDD8775ACC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA86067F-7154-4C89-BE6F-8EDD8775ACC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6662736D-CAE5-4265-A997-4604CE870A55}
+	EndGlobalSection
+EndGlobal
